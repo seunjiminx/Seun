@@ -1,0 +1,8 @@
+{
+  "name": "Seun AI",
+  "description": "A comprehensive multi-modal AI playground featuring text generation, image creation, video synthesis with Veo, and real-time voice/video interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
